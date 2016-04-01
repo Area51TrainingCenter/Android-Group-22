@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+
+    <string name="instructions">Hola, ingresa tu nombre.</string>
+    <string name="hint_name">Nombre completo.</string>
+    <string name="register">Registrar</string>
+</resources>
