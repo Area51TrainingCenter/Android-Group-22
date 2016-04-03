@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Broadcast Receiver Test</string>
+
+    <string name="airplane_mode_enabled">El modo avión ha sido activado.</string>
+    <string name="airplane_mode_disabled">El modo avión ha sido desactivado.</string>
+    <string name="button_clicked">El botón ha sido presionado.</string>
+
+    <string name="launch_broadcast">Lanzar Broadcast</string>
+    <string name="instructions">Presiona el botón para emitir un broadcast.</string>
+</resources>
