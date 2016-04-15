@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Welcome</string>
+
+    <string name="welcome_message">¡Hola, ingresa tu nombre!</string>
+    <string name="hint_name">Nombre completo.</string>
+    <string name="login">Registrar</string>
+    <string name="welcome">¡Bienvenido, %s!</string>
+</resources>

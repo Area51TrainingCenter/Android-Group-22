@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Counter</string>
+
+    <string name="button_switch_counter">Iniciar/Detener Contador</string>
+</resources>
