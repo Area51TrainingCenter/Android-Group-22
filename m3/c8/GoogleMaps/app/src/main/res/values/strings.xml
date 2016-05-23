@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Google Maps Project</string>
+    <string name="getting_location">Obteniendo ubicación&#8230;</string>
+    <string name="my_location_is">Latitud: %1$s; Longitud: %2$s</string>
+    <string name="map_satellite">Mapa satelital</string>
+    <string name="map_hybrid">Mapa híbrido</string>
+    <string name="map_normal">Mapa normal</string>
+    <string name="map_terrain">Mapa de terreno</string>
+
+    <!-- API KEYS -->
+    <string name="google_api_key" translatable="false">AIzaSyColgUN8PszpDh6j8HXhtAVkw5g-bcLbYU</string>
+</resources>

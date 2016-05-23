@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List and Fragment</string>
+
+    <string name="create_note">Crear Nota</string>
+</resources>

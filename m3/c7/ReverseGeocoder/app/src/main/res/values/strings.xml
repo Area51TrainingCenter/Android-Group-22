@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reverse Geocoder</string>
+
+    <string name="get_address">Obtener dirección</string>
+    <string name="getting_address">Obteniendo dirección&#8230;</string>
+    <string name="no_location">Obteniendo ubicación&#8230;</string>
+    <string name="location_latitude">Latitud: %s.</string>
+    <string name="location_longitude">Longitud: %s.</string>
+    <string name="location_country">País: %s.</string>
+    <string name="location_address">Dirección: %s.</string>
+    <string name="parse_error">El servidor ha devuelto una respuesta inválida.</string>
+    <string name="connection_error">Error en la conexión con el servidor.</string>
+</resources>
